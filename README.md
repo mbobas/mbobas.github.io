@@ -1,1 +1,1 @@
-<a href = "mbobas.github.io/react-portfolio/home" >Go to porftfolio website  </a>
+<a href = "mbobas.github.io/react-portfolio/" >Go to porftfolio website  </a>
